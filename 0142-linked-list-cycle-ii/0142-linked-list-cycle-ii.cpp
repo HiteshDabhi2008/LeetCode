@@ -16,15 +16,15 @@ public:
             slow=slow->next;
             fast=fast->next->next;
             if(fast==slow){
-                break;
+                fast=head;
+                while (fast != slow && slow) {
+                    fast = fast->next;
+                    slow = slow->next;
+                }
+                return fast;
             }
         }
-        if(!fast || !fast->next) return nullptr;
-        ListNode* entry = head;
-        while (entry != slow && slow) {
-            entry = entry->next;
-            slow = slow->next;
-        }
-        return entry;
+     
+        return nullptr;
     }
 };
