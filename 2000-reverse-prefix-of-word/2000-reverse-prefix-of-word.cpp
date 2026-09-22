@@ -1,27 +1,16 @@
 class Solution {
 public:
     string reversePrefix(string word, char ch) {
-       stack <char> st;
-       int found=0;
-       for(int i=0;word[i]!='\0';i++){
-            st.push(word[i]);
+        int n=word.length();
+        int k=0;
+
+        for(int i=0;i<n;i++){
             if(word[i]==ch){
-                found=1;
+                k=i;
                 break;
             }
-        } 
-        if(!found){
-            return word;
         }
-        else{
-            int i=0;
-            while(!st.empty()){
-                word[i]=st.top();
-                st.pop();
-                i++;
-            }
-            return word;
-        }
-
+        reverse(word.begin(),word.begin()+k+1);
+        return word;
     }
 };
