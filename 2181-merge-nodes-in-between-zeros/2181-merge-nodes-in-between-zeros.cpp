@@ -16,6 +16,7 @@ public:
         ListNode *shead=nullptr;
         int sum=0;
         while(temp1){
+            sum+=temp1->val;
             if(temp1->val==0){
                 ListNode *newNode=new ListNode(sum);
                 sum=0;
@@ -27,11 +28,8 @@ public:
                     temp2->next=newNode;
                     temp2=temp2->next;
                 }
-               
             }
-            sum+=temp1->val;
-            temp1=temp1->next;
-               
+            temp1=temp1->next;      
         }
         return shead;
     }
