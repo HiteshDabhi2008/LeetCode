@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0143-reorder-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
