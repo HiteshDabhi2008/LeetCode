@@ -21,7 +21,6 @@ public:
     }
 
     void pop() {
-   
         long long x = st.top();
         st.pop();
         if (x < mini) {
