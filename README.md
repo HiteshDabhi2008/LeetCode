@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0155-min-stack) |
 | [2000-reverse-prefix-of-word](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
