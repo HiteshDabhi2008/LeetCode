@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0155-min-stack) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0231-power-of-two) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
