@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0258-add-digits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0258-add-digits) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
