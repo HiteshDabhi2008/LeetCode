@@ -3,7 +3,7 @@ public:
     bool isPalindrome(int x) {
         if (x<0) 
             return false;
-        int og=x;
+        /*int og=x;
         int lastdigit;
         int  long reverse=0;
         while (x>0){
@@ -14,6 +14,19 @@ public:
         if(reverse==og) 
             return true;
         else 
-            return false;
+            return false;*/
+        
+        string s= to_string(x);
+        int l=0,r=s.length()-1;
+        while(l<r){
+            if(s[l]!=s[r]){
+                return false;
+            }
+            l++;
+            r--;
+        }
+        return true;
+
+        
     }
 };
