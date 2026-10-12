@@ -1,0 +1,13 @@
+class Solution {
+public:
+    vector<int> merge(vector<int>& nums1, int m, vector<int>& nums2, int n){
+       int i=0,j=0;
+       for(i=m;i<nums1.size();i++){
+            nums1[i]=nums2[j];
+            j++;
+       }
+       sort(nums1.begin(),nums1.end());
+    
+       return nums1;
+    }
+};
