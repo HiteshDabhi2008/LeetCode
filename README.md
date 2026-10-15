@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2418-sort-the-people](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2418-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2418-sort-the-people](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2418-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2418-sort-the-people](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2418-sort-the-people) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
 | ------- |
