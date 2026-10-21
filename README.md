@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0142-linked-list-cycle-ii) |
