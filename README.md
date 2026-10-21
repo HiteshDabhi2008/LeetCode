@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
