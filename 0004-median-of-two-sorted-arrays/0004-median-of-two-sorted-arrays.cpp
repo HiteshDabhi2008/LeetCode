@@ -9,8 +9,6 @@ public:
         if(n%2==0){
             return (nums1[(n/2)-1]+nums1[n/2])/2.0;
         }
-        else{
-            return (nums1[n/2]);
-        }
+        return (nums1[n/2]);
     }
 };
