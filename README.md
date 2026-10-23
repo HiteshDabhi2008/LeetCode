@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2418-sort-the-people) |
