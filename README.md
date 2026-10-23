@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3516-find-closest-person) |
