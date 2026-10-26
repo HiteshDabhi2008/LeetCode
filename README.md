@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2418-sort-the-people) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HiteshDabhi2008/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Tree
 |  |
 | ------- |
