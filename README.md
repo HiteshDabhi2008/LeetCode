@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Recursion
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0704-binary-search) |
+| [1441-build-an-array-with-stack-operations](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0258-add-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
