@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
