@@ -2,46 +2,29 @@ class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
         stack<int> st;
-        int cal;
-        for(int i=0;i<tokens.size();i++){
-            if(tokens[i]=="+"){
-                if(!st.empty()){
-                    int x= st.top();
-                    st.pop();
-                    int y=st.top();
-                    st.pop();
-                    st.push(x+y);
-                }
+        for(string c : tokens){
+            if(c=="+"){
+                int x= st.top();st.pop();
+                int y=st.top();st.pop();
+                st.push(x+y);
             }
-            else if(tokens[i]=="*"){
-                if(!st.empty()){
-                    int x= st.top();
-                    st.pop();
-                    int y=st.top();
-                    st.pop();
-                    st.push(x*y);
-                }
+            else if(c=="*"){
+                int x= st.top();st.pop();
+                int y=st.top();st.pop();
+                st.push(x*y);
             }
-            else if(tokens[i]=="-"){
-                if(!st.empty()){
-                    int x= st.top();
-                    st.pop();
-                    int y=st.top();
-                    st.pop();
-                    st.push(y-x);
-                }
+            else if(c=="-"){
+                int x= st.top();st.pop();
+                int y=st.top();st.pop();
+                st.push(y-x);  
             }
-            else if(tokens[i]=="/"){
-                if(!st.empty()){
-                    int x= st.top();
-                    st.pop();
-                    int y=st.top();
-                    st.pop();
-                    st.push(y/x);
-                }
+            else if(c=="/"){
+                int x= st.top();st.pop();
+                int y=st.top();st.pop();
+                st.push(y/x); 
             }
             else{
-                st.push(stoi(tokens[i]));
+                st.push(stoi(c));
             }
         }
         return st.top();
