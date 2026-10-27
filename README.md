@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0383-ransom-note) |
 | [1021-remove-outermost-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
