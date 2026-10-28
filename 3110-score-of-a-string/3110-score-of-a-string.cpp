@@ -1,10 +1,10 @@
 class Solution {
 public:
     int scoreOfString(string s) {
-        int count=0;
-        for(int i=0;i<s.length()-1;i++){
-            count+=(abs(s[i]-s[i+1]));
+        int score = 0;
+        for (int i = 1; i < s.length(); i++) {
+            score += abs(s[i] - s[i - 1]);
         }
-        return count;
+        return score;
     }
 };
