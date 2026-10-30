@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1480-running-sum-of-1d-array) |
