@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0941-valid-mountain-array) |
+| [1051-height-checker](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1441-build-an-array-with-stack-operations](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1051-height-checker) |
 | [2418-sort-the-people](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1051-height-checker) |
 ## Matrix
 |  |
 | ------- |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
