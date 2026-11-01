@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/HiteshDabhi2008/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/HiteshDabhi2008/LeetCode/tree/master/1051-height-checker) |
 | [2418-sort-the-people](https://github.com/HiteshDabhi2008/LeetCode/tree/master/2418-sort-the-people) |
